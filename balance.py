@@ -1,7 +1,9 @@
 """
 file: balance.py
-description: this program reads an input text file and encrypt/decrypt it
-each line by another instruction text file
+description: this program reads an input text file and construct a balance
+structure by the given input followed by its specific node generated rules.
+This program also calculates the unknown weight (if exist) and generates the
+picture of this balance puzzle
 language: python3
 author: Chenghui Zhu, Dongyu Wu
 """
